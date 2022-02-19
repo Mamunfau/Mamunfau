@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @Mamunfau
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Mamun kazi
+- 👀 I’m interested in data analytics, monitoring and evaluation
+- 🌱 I’m currently learning Google Data Analytics Professional Certificate program
+- 💞️ I’m looking to collaborate on data analytics challenges
+- 📫 How to reach me using my email (mamun_rana@hotmail.com)
 
 <!---
 Mamunfau/Mamunfau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-More than nine years of experience in positions covering research, monitoring & Evaluation, and project management. A solid education in International Human Rights Law, Anthropology, and MBA. Expertise in MEL framework design, feminist and developmental evaluation approach, and storytelling. Extensive knowledge in empirical research methodologies, data collection, and analysis techniques. Excellent team builder and motivator with honed communication and analytical thinking skills.
